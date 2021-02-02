@@ -363,7 +363,7 @@ disqus:
 
 # changyan
 changyan:
-  enable: true
+  enable: false
   appid: cytjbmYpR
   appkey: 9930020ec422f1fdf6c3c5e2d19a194c
 
@@ -372,12 +372,12 @@ changyan:
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://github.com/xCss/Valine
 valine:
-  enable: false
-  appid:  # your leancloud application appid
-  appkey:  # your leancloud application appkey
+  enable: true
+  appid: cp91ClLOngdAeowVeE5trXY8-gzGzoHsz
+  appkey: APwOFX9HM338HLixOx1nbn6W
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
-  placeholder: Comment input placeholder
+  placeholder: 想说点啥？
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
