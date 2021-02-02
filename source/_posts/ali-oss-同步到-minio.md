@@ -1,7 +1,10 @@
 ---
 title: ali-oss 同步到 minio
 date: 2021-02-02 11:29:39
-tags:
+categories:
+  - 数据迁移
+tags: 
+  - minio
 ---
 
 * `Rclone` 是一个命令行程序，用于管理云存储上的文件。它是云供应商Web存储界面的功能丰富的替代方案。超过40种云存储产品支持rclone，包括S3对象存储，业务和消费者文件存储服务以及标准传输协议。Rclone具有等效于unix命令rsync，cp，mv，mount，ls，ncdu，tree，rm和cat的强大的云功能。 Rclone熟悉的语法包括Shell管道支持和--dry-run保护。它可在命令行，脚本或通过其API使用。用户将rclone称为“云存储的瑞士军刀”和“与魔术不可区分的技术”。
