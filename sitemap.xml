@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2021/02/02/ali-oss-%E5%90%8C%E6%AD%A5%E5%88%B0-minio/</loc>
+    
+    <lastmod>2021-02-02T05:32:32.405Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/categories/index.html</loc>
     
-    <lastmod>2021-02-02T03:26:12.587Z</lastmod>
+    <lastmod>2021-02-02T05:32:32.405Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/tags/index.html</loc>
     
-    <lastmod>2021-02-02T03:26:12.587Z</lastmod>
+    <lastmod>2021-02-02T05:32:32.405Z</lastmod>
     
   </url>
   
