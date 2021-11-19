@@ -26,6 +26,7 @@
   * [图片懒加载](js/tu-pian-lan-jia-zai.md)
   * [数组去重](js/shu-zu-qu-zhong.md)
   * [随机一个头像](js/sui-ji-yi-ge-tou-xiang.md)
+  * [手机号，身份证显示 \*](js/shou-ji-hao-shen-fen-zheng-xian-shi.md)
 * [微信小程序](wei-xin-xiao-cheng-xu/README.md)
   * [摇一摇](wei-xin-xiao-cheng-xu/yao-yi-yao.md)
   * [语音播放动画](wei-xin-xiao-cheng-xu/yu-yin-bo-fang-dong-hua.md)
