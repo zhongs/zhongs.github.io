@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T09:22:35.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="aAl2aWNM_ipQGgVixNDJ" version="20.4.0" type="github"><diagram id="cKM2_AJNUhKJBOsqiqPd" name="Page-1">5Vpbj+I2FP4tfbDUPjBK7FwfEwjtSru9aKrdqi8jQwykDTgbzAzsr6/tOIQk5jKdgQArjRjn+Nixz/m+nOMLQP35+uccZ7NPNCYpgEa8BmgAIDRd1+P/hGRTSKBhoUIyzZNYaVWCx+QbUUJDSVdJTJY1RUZpypKsLhzTxYKMWU2G85y+1NUmNK2/NcNT0hI8jnHaln5JYjYrpJ5tVPJfSDKdlW82DVUzx6WyEixnOKYvOyIUAdTPKWVFab7uk1RYr7RL0W64p3Y7sJws2CkNAvTb58Hfnz/gL8vo6x/kV6Pn/NUz7aKbZ5yu1IzVaNmmNAGJuUXUI83ZjE7pAqdRJQ1zulrERLzH4E+VzkdKMy40ufAfwthGuRevGOWiGZunqrZ4p3jR3skp0ZKu8jE5MCMFOIbzKWGHZm5tfcDRS+icsHzDG+YkxSx5rg8EKxRNt3qVoXlB2fo1dnfado8c4HsgGGod8BGPOLVqRsNpMl3w8pjbiORc8ExylnDoBqpinsRx4R+yTL7hkexPeCijyYLJKdkhsAdbB4gOyBpoeKUaV2jedc0BZLXtq7rvGQ+ma1hFZ+rj0FPvPNkFqvffxXR2VOhksuS+b/poO4j/7zZkfK90gX6XdPFaZp/QfP7I8tVYOL6iTmQD3wCBAyIfeDbwBiByQTgAQSSqhARJZRuEspUnq6CT8rmHo5yXpkwauCmJyQSvUvaJMDzADLcV+ETxn5uMFLUNTOQzOh+tuFXCl1nCyGOGpVNeeNCse7YOjb2sbHl6L89c98GukayMXC9VNINIqcx2I5lrnOvb1/bmjZPItE4NOm6nQcfSBB1PMEGwwgW+BQLvEE9ElQd8V7QKTKnMqyIQ2LJqCALeagjCPvD6UtIHob9DRdm86NDnOrJKFAzZIe/K1I2HFwLgWQcH1hpGE1CX5t02D1S0Q16bd6ZvtHnnn4t28O5iV8GmU2jXafAqh9nO9cJIoDuwQBgcoV1YMIkrB4J/naMb1YOKY2jQDTXods6Gbnh36PZPTc32+OpC6Pb1QSUCPlKgVt/lA0FlCDxYVV0bul2rc3Rrlou3je7tZs5RdO9ZR14G3WXHNXS7MvmRyOW/fqBWHTwDqZIfnvO4MufhoHYk3jnMAxDIVIcvSMLBwdzJE1Whq6p8Z3e5c2Xs8HSZzWXZcXcLCmifyo5OFxRQs3sokG9IUnCc8++6m9ElXzYvl2KjlY8hS+SCvcC1qdR54g8NPtMnsYp+iuUS2pBLdxOEoeRXBLxQt3S/MjaYBuycDu18U3w+nhiZZxwV5EHaQ2/fc64GhU5Ydmjfgi9Np3Nf6rIrR7iKR5WiICLJ1gFyne0fy7canrg2u/dMy+7Y7gjdW0hBpyZcCHYZUtCehKsv/iK+UvbkvlGRVfnvjfy6w47w4B2Qbzv1XaJrQP7dnQgieCryOz0SLIf5nruz2+grt5hEgPdFVbGVFCIZ+13x6w91JyZXt6va4kvnbNHs7d04W049y0BOl2yxNLvZ28M/nQdu7gAd7Vna7RygW6h+gP7G8/O1tsH5TtMtzRfvOyGP9dY9W9k0yHO82VFQsNzrWQc2DqVQ48rQ6/R5oRjB+96x0J1Sts/3XxUZjway7g7obbtuY1NzQG9amphmlrsv7x/UTthtvvx5qtWwkwcf2tEf6ix1tuhvaRYrXRuqmSIhz9XY6bJZkqWhtLpAs8zwomYw5+tK3IgMJ3TBekv5zQ64ggmztTSQMcLjf6fSbL0xTWle1OfT0Y/Q8gDkIzSg5auCbfxUXOdRvZa3dX7gYXmSTB/EfqPYbhQ3d4CwiYPnwkPFb+vRaDT7sMhWrJwKN00xm/IO0Y1lIYdx5TX4t+3i9MRie9u0zN6txhfsjKmGbqf6Vu9bHnGU83ZHQVj3lO9dzFHt2KOl6l25zEfX6TL+WN1PL9Sra/4o+g8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-01T08:10:11.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YiwohHTnLjsKWPgAmtwc" version="20.8.23" type="github">
+  <diagram id="cKM2_AJNUhKJBOsqiqPd" name="Page-1">
+    <mxGraphModel dx="1434" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="A3OVDZVIaWsEqQeN0-6X-8" target="A3OVDZVIaWsEqQeN0-6X-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="A3OVDZVIaWsEqQeN0-6X-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.1704" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="A3OVDZVIaWsEqQeN0-6X-8" target="A3OVDZVIaWsEqQeN0-6X-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-8" value="formStruct 是否配置元数据&lt;br&gt;&lt;br&gt;defaultMetaData&lt;br&gt;metaTypeData" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="77.5" y="50" width="235" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="A3OVDZVIaWsEqQeN0-6X-14" target="A3OVDZVIaWsEqQeN0-6X-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-14" value="调用元数据列表接口，匹配到有需要调用的元数据接口" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="380" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="A3OVDZVIaWsEqQeN0-6X-17" target="A3OVDZVIaWsEqQeN0-6X-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-17" value="显示元数据弹窗" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="135" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="A3OVDZVIaWsEqQeN0-6X-19" target="A3OVDZVIaWsEqQeN0-6X-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-19" value="输入元数据参数" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="135" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="A3OVDZVIaWsEqQeN0-6X-21" target="A3OVDZVIaWsEqQeN0-6X-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-21" value="确定后，重新加载接口，获取formStruct" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="135" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="A3OVDZVIaWsEqQeN0-6X-25" target="A3OVDZVIaWsEqQeN0-6X-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-25" value="通过postMessage api 发送 get_meta_data 类型数据" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="135" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-27" value="form_template.html 类型调用元数据列表接口，填充数据" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="135" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-29" value="拖拽表单元数据填充" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="135" y="-145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="A3OVDZVIaWsEqQeN0-6X-31" target="A3OVDZVIaWsEqQeN0-6X-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-31" value="第三方表单元数据填充" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="-145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="A3OVDZVIaWsEqQeN0-6X-32" target="A3OVDZVIaWsEqQeN0-6X-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-32" value="调用元数据列表，事项系统配置接口" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="-5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="A3OVDZVIaWsEqQeN0-6X-34" target="A3OVDZVIaWsEqQeN0-6X-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-40" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="A3OVDZVIaWsEqQeN0-6X-37" vertex="1" connectable="0">
+          <mxGeometry x="-0.1434" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="A3OVDZVIaWsEqQeN0-6X-34" target="A3OVDZVIaWsEqQeN0-6X-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="330" />
+              <mxPoint x="620" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-34" value="是否调用元数据接口" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="550" y="150" width="140" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-36" value="" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="182.5" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-41" value="" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="387.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-44" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 249, 250);&quot;&gt;!config.metadataType &amp;amp;&amp;amp; config.metadataInput&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="840" y="220" as="geometry">
+            <mxPoint x="-15" y="-45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-45" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="860" y="220" as="geometry">
+            <mxPoint x="-225" y="98" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3OVDZVIaWsEqQeN0-6X-46" value="config.metadataType" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="930" y="220" as="geometry">
+            <mxPoint x="-225" y="98" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
